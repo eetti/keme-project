@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+Pillow
+numpy
+requests
+tensorflow==2.11.0
+pandas
+feather-format
+scikit-learn
+joblib 
